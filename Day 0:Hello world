@@ -1,0 +1,13 @@
+>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+int main() {
+char inputstring[40];
+cout<<"Hello, World.\n";
+gets(inputstring);
+cout<<inputstring;
+return 0;
+}
